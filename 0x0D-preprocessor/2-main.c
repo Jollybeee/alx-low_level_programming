@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - start of program
- * Return: success 0
+ * main - main entry
+ * Return: returns 0
  */
-
-int main (void)
+int main(void)
 {
 	printf("%s\n", __FILE__);
 
